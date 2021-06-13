@@ -114,10 +114,13 @@ header div img{
     
 }
 li{
-    text-decoration: none;
-    color: white;
+    
     font-size: 28px;
     font-family: 'Staatliches', cursive;
+}
+a p{
+    text-decoration: none;
+    color: white;
 }
 .three li:hover{
     color: aquamarine;
