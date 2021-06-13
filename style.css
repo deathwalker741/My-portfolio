@@ -3,9 +3,7 @@
     margin: 0;
     padding: 0;
 }
-.real{
-    position:fixed;
-}
+
 header{
     display: inline;
     display: flex;
