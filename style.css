@@ -3,9 +3,7 @@
     margin: 0;
     padding: 0;
 }
-.real{
-    position:fixed;
-}
+
 header{
     display: inline;
     display: flex;
@@ -116,8 +114,13 @@ header div img{
     
 }
 li{
+    
     font-size: 28px;
     font-family: 'Staatliches', cursive;
+}
+a p{
+    text-decoration: none;
+    color: white;
 }
 .three li:hover{
     color: aquamarine;
