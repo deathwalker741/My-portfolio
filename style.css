@@ -156,6 +156,11 @@ li{
     line-height: 30px;
     display: flex;
     flex-wrap: wrap;
+    text-decoration: none;
+}
+.cards a{
+    text-decoration: none;
+    color: white;
 }
 .project{
     width: 100%;
