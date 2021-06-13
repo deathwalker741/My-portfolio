@@ -45,9 +45,6 @@ body{
 .headnav ul li:hover{
     background-color: rgb(179, 236, 255);
 }
-li{
-    list-style: none;
-}
 
 .headnav ul li a{
     text-decoration: none;
