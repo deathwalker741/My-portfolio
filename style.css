@@ -114,6 +114,8 @@ header div img{
     
 }
 li{
+    text-decoration: none;
+    color: white;
     font-size: 28px;
     font-family: 'Staatliches', cursive;
 }
