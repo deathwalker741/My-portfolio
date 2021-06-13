@@ -133,6 +133,10 @@ a p{
 .sect{
     /* justify-content: center; */
 }
+li{
+    list-style: none;
+}
+
 
 .project-section{
     
